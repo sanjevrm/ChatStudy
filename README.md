@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+Reg No:212223040186
 
+Name:Sanjev R M
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
